@@ -1,6 +1,7 @@
 # Sales-Performance-Dashboard-Superstore-Dataset
 This project explores and visualizes sales data from the Kaggle Superstore Sales dataset to identify key business insights across regions, product categories, and to track trends over time.
-🔍 Objectives
+
+ 🔍 Objectives
 Understand sales performance by region and category
 
 Identify top-performing products and most profitable segments
